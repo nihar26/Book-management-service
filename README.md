@@ -1,11 +1,3 @@
-# titaniumaplus
-
-## Project - Books Management
-
-### Key points
-- Create your own database by replacing `<yourFullName>Database` in the mongodb connection string (in index.js) with a valid value for example `sabihaKhanDatabase`. This will help us test your code better.
-- Please share your GitHub username, so that once you are invited as a collaborator you can push your solution to the same repo. Please note your branch name should be of the format assignment/<yourFullName>
-- Follow the naming conventions exactly as instructed.
 
 ### Models
 - User Model
@@ -318,5 +310,6 @@ Refer below sample
   }
 }
 ```
-#   B o o k - m a n a g e m e n t - s e r v i c e  
+#   B o o k - m a n a g e m e n t - s e r v i c e 
+ 
  
